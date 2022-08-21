@@ -3,7 +3,7 @@
 
 - Cheat features **Humanized Aimbot**
 
-- Focuses [We're Focusing On Running This Cheat Off Kernel. And To Be Completely Undetected.](We're Focusing On Running This Cheat Off Kernel. And To Be Completely Undetected.)
+- Focuses We're Focusing On Running This Cheat Off Kernel. And To Be Completely Undetected.
 
 - Requirements [A Usb With At Least 100mb, Patch Guard Is Not Needed. 64 Bit Capability.](A Usb With At Least 100mb, Patch Guard Is Not Needed. 64 Bit Capability.)
 
