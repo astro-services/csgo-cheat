@@ -1,9 +1,17 @@
 <h1 align="center">Astro Astro, csgo cheat.</h1>
 <h3 align="center">First Free Completely UD CSGO Cheat.</h3>
 
-- Cheat features **Humanized Aimbot**
+- Cheat features
+-  **Humanized Aimbot**
+-  **ESP (Stream Proof)
+-  **Auto Bhop**
+-  **Skin Changer (20 Options)**
+-  **Radar (Bypasses Netvars)
+-  **Trigger Bot Humanized)**
+-  **Enemy Chams 4 Color Options**
 
-- Focuses We're Focusing On Running This Cheat Off Kernel. And To Be Completely Undetected.
+- Focuses
+-  We're Focusing On Running This Cheat Off Kernel. And To Be Completely Undetected.
 
 - Requirements [A Usb With At Least 100mb, Patch Guard Is Not Needed. 64 Bit Capability.](A Usb With At Least 100mb, Patch Guard Is Not Needed. 64 Bit Capability.)
 
