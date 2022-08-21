@@ -13,7 +13,7 @@
 - Focuses
 -  We're Focusing On Running This Cheat Off Kernel. And To Be Completely Undetected.
 
-- Requirements [A Usb With At Least 100mb, Patch Guard Is Not Needed. 64 Bit Capability.](A Usb With At Least 100mb, Patch Guard Is Not Needed. 64 Bit Capability.)
+- Requirements [A Usb With At Least 100mb, Patch Guard Is Not Needed. 64 Bit Capability.]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
