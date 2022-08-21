@@ -1,7 +1,7 @@
 =======================================================================
--change log-
+change log
 Update: If cheat hasn't been updated, use hazedumper to change offsets.
--Cheat features-
+Cheat features
 Humanized Legit Aimbot 🤖
 ESP (Stream Proof)
 Auto Bhop 
@@ -14,7 +14,7 @@ We're Focusing On Running This Cheat Off Kernel.
 Please Be Patient For Release.
 =======================================================================
 
-######## Q&A
+             Q&A
 Will you need to boot off of a usb?
 Yes.
 Is the cheat safe and undetected?
