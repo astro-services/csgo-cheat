@@ -1,24 +1,15 @@
-=======================================================================
-change log
-Update: If cheat hasn't been updated, use hazedumper to change offsets.
-Cheat features
-Humanized Legit Aimbot 🤖
-ESP (Stream Proof)
-Auto Bhop 
-Trigger Bot
-Radar (Undetected bypassing netvar)
-Skin Changer - Only 20 options.
-We're Focusing On Running This Cheat Off Kernel.
-=======================================================================
--Features Are Limited Due To Detection Reasons.-
-Please Be Patient For Release.
-=======================================================================
+<h1 align="center">Astro Astro, csgo cheat.</h1>
+<h3 align="center">First Free Completely UD CSGO Cheat.</h3>
 
-             Q&A
-Will you need to boot off of a usb?
-Yes.
-Is the cheat safe and undetected?
-Yes, although we don't advise to cheat on your main.
-Will this work for windows 11?
-Yes. And all builds prior.
-=======================================================================
+- Cheat features **Humanized Aimbot**
+
+- Focuses [We're Focusing On Running This Cheat Off Kernel. And To Be Completely Undetected.](We're Focusing On Running This Cheat Off Kernel. And To Be Completely Undetected.)
+
+- Requirements [A Usb With At Least 100mb, Patch Guard Is Not Needed. 64 Bit Capability.](A Usb With At Least 100mb, Patch Guard Is Not Needed. 64 Bit Capability.)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
