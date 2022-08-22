@@ -1,5 +1,5 @@
 <h1 align="center"> Astro, csgo cheat. 100 Stars For Release.</h1>
-<h3 align="center">First Free Completely UD CSGO Cheat.</h3>
+<h3 align="center">First Free Completely UD External CSGO Cheat.</h3>
 
 - Cheat features
 -  **Humanized Aimbot**
